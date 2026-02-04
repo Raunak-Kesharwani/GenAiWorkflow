@@ -1,0 +1,22 @@
+# ------------------------
+# Core Backend
+# ------------------------
+fastapi
+uvicorn
+
+# ------------------------
+# LLM & Agent Framework
+# ------------------------
+langchain
+langgraph
+langchain-google-genai
+
+# ------------------------
+# HTTP & Utilities
+# ------------------------
+requests
+
+# ------------------------
+# Data & Validation
+# ------------------------
+pydantic
